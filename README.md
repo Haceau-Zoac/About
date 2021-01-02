@@ -4,7 +4,7 @@
 ## 目录
 
 * [介绍](#介绍)
-* [Commit message 格式](#Commit-message-格式]
+* [Commit message 格式](#Commit-message-格式)
 * [代码样式](#代码样式)
   * [C](#C)
     * [include](#include)
